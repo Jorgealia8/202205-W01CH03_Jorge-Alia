@@ -1,0 +1,12 @@
+* {
+    font-family: "Nunito", sans-serif;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+}
